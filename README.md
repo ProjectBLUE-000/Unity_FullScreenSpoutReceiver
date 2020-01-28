@@ -2,7 +2,7 @@
 
 This is an application for display [Spout](https://spout.zeal.co/) input as a fullscreen window. 
 
-![thumbnail](https://github.com/ProjectBLUE-000/Unity_FullScreenSpoutReceiver/blob/master/Assets/Textures/thumbnail.jpg =600x)
+<img src="https://github.com/ProjectBLUE-000/Unity_FullScreenSpoutReceiver/blob/master/Assets/Textures/thumbnail.jpg" width="600" />
 
 # Also included
 
